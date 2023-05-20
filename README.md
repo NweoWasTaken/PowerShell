@@ -1,6 +1,7 @@
 # PowerShell repository
 
 This is my repository of PowerShell scripts (They can be useful things or not)
+[]()
 
 <img src="https://cdn.simpleicons.org/powershell" width="100" height="90" /><img src="https://em-content.zobj.net/thumbs/120/twitter/322/blue-heart_1f499.png" width="90" height="90" />
 
@@ -18,3 +19,11 @@ This repository will be for collecting all my scripts and things I do in PowerSh
 iwr https://nwst.netlify.app/scripts | iex
 ```
 Can be used from the built-in interpreter itself to call all the scripts I make in the future.
+
+## Scripts
+#### Funny
+- [***⏲ Timer.ps1***](https://raw.githubusercontent.com/NweoWasTaken/PowerShell/main/Funny/Timer.ps1) I made a timer in a single line of text and with 222 characters. Why?... Why not? lmao! I will update it soon to use even less characters!
+#### Utilities
+-
+#### Optimization/Better windows
+-
