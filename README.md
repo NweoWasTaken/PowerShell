@@ -2,8 +2,7 @@
 
 This is my repository of PowerShell scripts (They can be useful things or not)
 
-<img src="https://cdn.simpleicons.org/powershell" width="100" height="90" />
-<img src="https://em-content.zobj.net/thumbs/120/twitter/322/blue-heart_1f499.png" width="90" height="90" />
+<img src="https://cdn.simpleicons.org/powershell" width="100" height="90" /><img src="https://em-content.zobj.net/thumbs/120/twitter/322/blue-heart_1f499.png" width="90" height="90" />
 
 Man i love ps 💙
 
