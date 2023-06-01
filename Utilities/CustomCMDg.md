@@ -57,10 +57,3 @@ The following (which can be used in the script):
  
 # Extras
 There is no limit to the number of combinations for these, and they (probably) won't cause any errors in the system or the CMD in general.
- 
-There are also buttons for
-
-[Preview] [Apply] [Open a CMD] [Reset] 
-
-
-.
