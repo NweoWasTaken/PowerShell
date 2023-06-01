@@ -24,6 +24,6 @@ Can be used from the built-in interpreter itself to call all the scripts I make 
 #### Funny
 - [***⏲ Timer.ps1***](https://raw.githubusercontent.com/NweoWasTaken/PowerShell/main/Funny/Timer.ps1) I made a timer in a single line of text and with 222(Now 185!) characters. Why?... Why not? lmao! I will update it soon to use even less characters!
 #### Utilities
--
+- [***🖥 CustomCMD.ps1***](https://raw.githubusercontent.com/NweoWasTaken/PowerShell/main/Utilities/CustomCMD.ps1) A script to customize the CMD startup prompt, here is a guide on how to use it [Click Here!](https://raw.githubusercontent.com/NweoWasTaken/PowerShell/main/Utilities/CustomCMDg.ps1)
 #### Optimization/Better windows
 -
