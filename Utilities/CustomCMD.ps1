@@ -1,8 +1,8 @@
-# Asegurate de que este script haya sido descargado del NweoScripts o del repositorio oficial en Github
-# Igualmente puedes ejecutar este script solamente usando el siguiente comando en poweshell irm | https://nwst.netfliy.app/scripts
+# Make sure this script has been downloaded from NweoScripts or the official repository on Github
+# You can also run this script just by using the following command in poweshell irm | https://nwst.netfliy.app/scripts [Not yet tbh]
 
-# Variables generales
-$version = "1.0.0"
+# Variables
+$version = "1.0.1"
 $date = Get-Date -UFormat "%A %m/%d/%Y"
 $scriptRoot = Split-Path -Path $PSScriptRoot -Qualifier
 $driveName = $scriptRoot.Substring(0, 1)
